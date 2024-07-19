@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.background {
+    width: 100vw;
+    position: fixed;
+    z-index: -1;
+}
+
+.logo{
+    width: 30px;
+    margin: 30px;
+    color: white;
+}
+.links{
+    color: white;
+}
+
+.nav {
+    width: 100%;
+    position: fixed;
+    display: flex;
+    justify-content: space-between; /* khoảng cách giữa các thành phần trong div */
+    align-items: center; /* khoảng cách trên dưới giữa các thành phần trong div */
+}
+
+.link-container{
+    display: flex;
+    gap: 30px; /* các thành phần con trong div sẽ cách nhau bao nhiêu */
+}
+.login{
+    display: flex;
+    width: 80px;
+    align-items: center;
+    color: white;
+    margin: 10px;
+}
+.arrow{
+    width: 20px;
+    color: white;
+    margin-left: 10px;
+}
+.page-content{
+    display: flex;  
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+}
+.hero-section{
+    width: 40%;
+    display: flex;
+    flex-direction: column; /* các thành phần trong div nằm theo hàng dọc*/
+    align-items: center;
+    gap: 25px;
+}
+.Announcing{
+    width: fit-content;
+    color: lightgrey;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    border: 1px solid #c5c3c6be;
+    border-radius: 100px;
+    padding: 12px;
+}
+.title{
+    font-size: 30px;
+    color: white;
+}
+.title h1{
+    text-align: center;
+}
+.describe{
+    color: #b7b6c1;
+    font-size: 18px;
+}
+.start{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    color: white;
+    font-weight: bold;
+}
+.a-start{
+    border: 1px solid #7161ef;
+    background-color: #7161ef;
+    border-radius: 5px;
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    padding: 5px;
+}
+.b-start{
+    display: flex;
+    align-items: center;
+}

@@ -5,15 +5,15 @@
 
 ## Giới thiệu 
 
-Cung cấp một template đáp ứng và tùy chỉnh cho việc tạo các trang chủ hiện đại và tinh tế.
+To-Do List TRACY là một ứng dụng đơn giản và hiệu quả giúp bạn quản lý công việc hàng ngày một cách dễ dàng. Nó được thiết kế để giúp bạn tổ chức, theo dõi và hoàn thành các nhiệm vụ của mình một cách hiệu quả nhất.
 
 
 ## Tính năng
 
-- Bố Cục Tùy Chỉnh: Dễ dàng chỉnh sửa các phần và thành phần để phù hợp với nhu cầu của bạn.
-- UI/UX Hiện Đại: Bao gồm giao diện người dùng sạch sẽ và trực quan.
-- Tối Ưu SEO: Xây dựng với các phương pháp tốt nhất về SEO để cải thiện thứ hạng trên công cụ tìm kiếm.
-- Xây Dựng Bằng HTML, CSS : Sử dụng các công nghệ web hiện đại để cải thiện hiệu suất.
+- Thêm Nhiệm Vụ: Dễ dàng thêm nhiệm vụ mới vào danh sách.
+- Xóa Nhiệm Vụ: Xóa các nhiệm vụ đã hoàn thành hoặc không cần thiết.
+- Đánh Dấu Hoàn Thành: Đánh dấu các nhiệm vụ đã hoàn thành để dễ dàng theo dõi tiến độ.
+- Giao Diện Đơn Giản và Trực Quan: Giao diện thân thiện với người dùng, dễ sử dụng.
 
 ## Công nghệ sử dụng
 
